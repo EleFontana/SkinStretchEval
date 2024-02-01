@@ -3,9 +3,9 @@
 
  <p align="center">
 
-  <img width="200" src="https://github.com/EleFontana/SkinStretchEval/media/cp_logo.jpg" alt="cp_logo">
-  <img width="200" src="https://github.com/EleFontana/SkinStretchEval/media/unipi_logo.jpg" alt="unipi_logo">
-  <img width="200" src="https://github.com/EleFontana/SkinStretchEval/media/iit_logo.jpg" alt="iit_logo"> 
+  <img width="200" src="https://github.com/EleFontana/SkinStretchEval/blob/main/media/cp_logo.png" alt="cp_logo">
+  <img width="200" src="https://github.com/EleFontana/SkinStretchEval/blob/main/media/unipi_logo.jpg" alt="unipi_logo">
+  <img width="200" src="https://github.com/EleFontana/SkinStretchEval/blob/main/media/iit_logo.jpg" alt="iit_logo"> 
 </p>
 
 # Abstract
@@ -13,8 +13,6 @@ In human body, skin stretch is intrinsically related to motion execution, provid
 We found a linear relationship between joint angles and the related skin stretch estimation over time, as evidenced by a linear regression analysis, with no statistically significant differences among participants and objects. This research sheds light on the intricate interplay between skin stretch and hand/finger movements. These outcomes can pave the path to the design of non-invasive skin stretch-based feedback devices for accurately conveying hand proprioceptive cues, with interesting implications for rehabilitation and advanced human-machine interaction.
 
 The experimental data we collected are publicly available here.
-
- maximum angle achieved (MA, [deg]), angle variation over time (AV, [deg/sec]), maximum stretch registered (MS, [mm]), stretch variation over time (SV, [mm/sec]), coefficient of determination ($R^2$), the intercept of the linear regression ($\alpha$) and the slope ($\beta$). 
 
 
 # Actual state of the Repository
