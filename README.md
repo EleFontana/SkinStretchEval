@@ -4,7 +4,7 @@
  <p align="center">
 
   <img width="300" src="https://github.com/EleFontana/SkinStretchEval/blob/main/media/cp_logo.png" alt="cp_logo">
-  <img width="300" src="https://github.com/EleFontana/SkinStretchEval/blob/main/media/unipi_logo.png" alt="unipi_logo">
+  <img width="300" src="https://github.com/EleFontana/SkinStretchEval/blob/main/media/logo_unipi.png" alt="unipi_logo">
   <img width="300" src="https://github.com/EleFontana/SkinStretchEval/blob/main/media/Logo_DII.jpg" alt="dii_logo"> 
   <img width="300" src="https://github.com/EleFontana/SkinStretchEval/blob/main/media/iit_logo.jpg" alt="iit_logo"> 
 </p>
