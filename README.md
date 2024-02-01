@@ -3,9 +3,10 @@
 
  <p align="center">
 
-  <img width="200" src="https://github.com/EleFontana/SkinStretchEval/blob/main/media/cp_logo.png" alt="cp_logo">
-  <img width="200" src="https://github.com/EleFontana/SkinStretchEval/blob/main/media/unipi_logo.jpg" alt="unipi_logo">
-  <img width="200" src="https://github.com/EleFontana/SkinStretchEval/blob/main/media/iit_logo.jpg" alt="iit_logo"> 
+  <img width="300" src="https://github.com/EleFontana/SkinStretchEval/blob/main/media/cp_logo.png" alt="cp_logo">
+  <img width="300" src="https://github.com/EleFontana/SkinStretchEval/blob/main/media/unipi_logo.png" alt="unipi_logo">
+  <img width="300" src="https://github.com/EleFontana/SkinStretchEval/blob/main/media/Logo_DII.jpg" alt="dii_logo"> 
+  <img width="300" src="https://github.com/EleFontana/SkinStretchEval/blob/main/media/iit_logo.jpg" alt="iit_logo"> 
 </p>
 
 # Abstract
@@ -34,13 +35,13 @@ Specifically:
 
     * *groups_alpha/beta/mse*: a 10x8 table (joints x clusters) with alpha/beta/MSE values obtained by averaging individual values of objects belonging to each cluster.
 
-* **\script**: contains files necessary for running the Friedman test on desired structures to check for differences between objects or participants. Specifically:
+* **\script**: contains necessary files for running the Friedman test on desired structures to check for differences between objects or participants. Specifically:
 
-    * *Between-participants differences folder*: executing the file betweenParticipants.m performs the Friedman test to assess statistically significant differences between participants. It examines structures related to angles and skin stretch, as well as structures containing alpha, beta, and MSE regression parameters;
+    * *Between-participants differences folder*: the file betweenParticipants.m performs the Friedman test to assess statistically significant differences between participants. It examines structures related to angles and skin stretch, as well as structures containing alpha, beta, and MSE regression parameters;
 
-    * *Between-cluster object differences folder*: After dividing objects into eight clusters, executing the file betweenCluster.m performs the Friedman test to verify differences between different clusters. It examines structures containing alpha, beta, and MSE regression parameters;
+    * *Between-cluster object differences folder*: After dividing objects into eight clusters, the file betweenCluster.m performs the Friedman test to verify differences between different clusters. It examines structures containing alpha, beta, and MSE regression parameters;
 
-    * *Within-cluster object differences folder*: executing the file withinCluster.m performs the Friedman test to verify differences between different objects within the same cluster. It examines structures containing alpha, beta, and MSE regression parameters.
+    * *Within-cluster object differences folder*: the file withinCluster.m performs the Friedman test to verify differences between different objects within the same cluster. It examines structures containing alpha, beta, and MSE regression parameters.
 
 
 
