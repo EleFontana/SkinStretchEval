@@ -48,7 +48,10 @@ Specifically:
 # Actual state of the Repository
 Schematic representation illustrating the sequential steps of the statistical analysis conducted in this study, providing a comprehensive overview of the process. When a p-value exceeds 0.05, indicating no significant differences, subsequent analyses are based on the median ($\eta$) of the previously tested values.
 
-<img width="500" src="https://github.com/EleFontana/SkinStretchEval/blob/main/media/res_vert.png" alt="results">
+<div style="text-align: center;">
+    <img width="700" src="https://github.com/EleFontana/SkinStretchEval/blob/main/media/res_vert.png" alt="results">
+</div>
+
 
 
 <!-- # Publication -->
