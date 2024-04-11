@@ -45,9 +45,15 @@ Specifically:
     * *Within-cluster object differences folder*: the file withinCluster.m performs the Friedman test to verify differences between different objects within the same cluster. It examines data containing alpha, beta, and MSE.
 
 
+# Actual state of the Repository
+Schematic representation illustrating the sequential steps of the statistical analysis conducted in this study, providing a comprehensive overview of the process. When a p-value exceeds 0.05, indicating no significant differences, subsequent analyses are based on the median ($\eta$) of the previously tested values.
+
+<img width="500" src="https://github.com/EleFontana/SkinStretchEval/blob/main/media/res_vert.png" alt="results">
+
+
 <!-- # Publication -->
 <!-- To know more about the method, you can refer to:
-E. Fontana, V. Catrambone, M. G. Catalano, A. Bicchi, M. Bianchi, "On the relation of skin stretch and finger joint angle evolution in human hand grasping tasks", Eurohaptics 2024 Conference, Lille, France, 2024, pp. xxx-xxx, doi: xxxxx. -->
+E. Fontana, V. Catrambone, M. G. Catalano, A. Bicchi, M. Bianchi, "On the Relation of Skin Stretch and Finger Joint Angle Evolution in Human Hand Grasping Tasks", Eurohaptics 2024 Conference, Lille, France, 2024, pp. xxx-xxx, doi: xxxxx. -->
 
 
 # Acknowledgment
