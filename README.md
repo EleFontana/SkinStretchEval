@@ -45,7 +45,7 @@ Specifically:
     * *Within-cluster object differences folder*: the file withinCluster.m performs the Friedman test to verify differences between different objects within the same cluster. It examines data containing alpha, beta, and MSE.
 
 
-# Actual state of the Repository
+# Analysis Flowchart
 Schematic representation illustrating the sequential steps of the statistical analysis conducted in this study, providing a comprehensive overview of the process. When a p-value exceeds 0.05, indicating no significant differences, subsequent analyses are based on the median ($\eta$) of the previously tested values.
 
 <div style="text-align: center;">
