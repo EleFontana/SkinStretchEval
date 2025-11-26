@@ -16,7 +16,7 @@ We characterized the relationship between joint angles and the corresponding ski
 The experimental data we collected are publicly available here.
 
 
-# Actual state of the Repository
+# Current state of the Repository
 This repository contains data collected during experiments and scripts for visualizing results obtained from the Friedman statistical test.
 
 Specifically:
